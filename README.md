@@ -12,7 +12,8 @@
 |||- So sánh hình ảnh ghi được với toàn bộ dữ liệu ảnh trên Database|
 
 
-![roadmap](C:\Users\Trung\Desktop\sunshine\roadmap.png) 
+![roadmap](https://user-images.githubusercontent.com/38566092/59320612-38406380-8cf9-11e9-9d05-01213030954b.PNG)
+
 
 
 

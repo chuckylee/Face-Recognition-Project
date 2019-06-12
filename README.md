@@ -12,4 +12,7 @@
 |||- So sánh hình ảnh ghi được với toàn bộ dữ liệu ảnh trên Database|
 
 
+![](C:\Users\Trung\Desktop\sunshine\roadmap.png) (&lt;img /&gt;)
+
+
 

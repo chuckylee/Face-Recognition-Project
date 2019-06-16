@@ -1,6 +1,7 @@
 # Face-Recognition-Project
 ## ROADMAP
 |Thời gian| Công việc|
+|-------|------|
 |10/6-19/6| Tìm hiểu về OpenCV và ngôn ngữ lập trình PyThon|
 |19/6-1/7| Học Machine Learning cơ bản|
 |24/6-8/7| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|

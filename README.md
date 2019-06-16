@@ -1,15 +1,21 @@
 # Face-Recognition-Project
 ## ROADMAP
-|Công việc                         |Thời gian|Chi tiết công việc                                   |
-|----------------------------------|------------------|-----------------------------------------------------|
-|1. Tìm hiểu về OpenCV                       |10/6-17/6| Tìm hiểu từ nguồn https://opencv.org/                             |
-|2. Tìm hiểu các thuật toán trong nhận diện khuôn mặt  |12/6-21/6|Tìm hiểu 2 thuật toán điển hình là Eigenfaces-PCA và Fresherfaces-LDA|   
-|3. Tìm hiểu parameters trong OpenCV|20/6-2/7|Học cách sử dụng các phân loại nhận dạng như khuôn mặt, mắt, miệng... qua Haarcascades và lbpcascades có sẵn trong OpenCV|
-|4. Tutorials|25/6-3/7|Đọc hiểu và làm các hướng dẫn cơ bản về thuật toán (documents, videos,...)|
-|5. Lập trình C++|26/6-9/8|- Sử dụng các thuật toán để phát hiện khuôn mặt qua ảnh 2D hoặc webcam |
-|||- Lưu trữ lại hình ảnh sau khi quét|
-|||- Đo đạc, tính toán vị trí, đặc điểm nhận dạng khuôn mặt|
-|||- So sánh hình ảnh ghi được với toàn bộ dữ liệu ảnh trên Database|
+|Thời gian| Công việc|
+|10/6-19/6| Tìm hiểu về OpenCV và ngôn ngữ lập trình PyThon|
+|19/6-1/7| Học Machine Learning cơ bản|
+|24/6-8/7| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|
+||Test mẫu thử và tìm ra giải thuật tối ưu|
+|8/7-15/7| Đánh nhãn dữ liệu|
+|15/7-18/7| Lập trình Python để phát hiện được khuôn mặt dựa trên thư viện OpenCV|
+|18/7-26/7| Lập trình Python để phân biệt được hai người|
+|26/7-9/8| Lập trình Python để nhận dạng được một người|
+||Viết báo cáo, paper|
+## Phân chia công việc
+|Thành viên| Công việc|
+|Trần Hoàng Nam| Tìm hiểu giải thuật Eigenfaces|
+|Thái Thị Thanh Linh|Tìm hiểu giải thuật LBPH|
+|Lê Đức Trung|Tìm hiểu giải thuật Fisherfaces|
+
 
 
 ![roadmap](https://user-images.githubusercontent.com/38566092/59320612-38406380-8cf9-11e9-9d05-01213030954b.PNG)

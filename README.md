@@ -13,6 +13,7 @@
 ||Viết báo cáo, paper|
 ## Phân chia công việc
 |Thành viên| Công việc|
+|-------|------|
 |Trần Hoàng Nam| Tìm hiểu giải thuật Eigenfaces|
 |Thái Thị Thanh Linh|Tìm hiểu giải thuật LBPH|
 |Lê Đức Trung|Tìm hiểu giải thuật Fisherfaces|

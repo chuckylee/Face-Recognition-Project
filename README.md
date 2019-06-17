@@ -14,9 +14,9 @@
 ## Phân chia công việc
 |Thành viên| Công việc|
 |-------|------|
-|Trần Hoàng Nam| Tìm hiểu giải thuật Eigenfaces|
-|Thái Thị Thanh Linh|Tìm hiểu giải thuật LBPH|
-|Lê Đức Trung|Tìm hiểu giải thuật Fisherfaces|
+|Trần Hoàng Nam| Tìm hiểu và áp dụng giải thuật Eigenfaces|
+|Thái Thị Thanh Linh|Tìm hiểu và áp dụng giải thuật LBPH|
+|Lê Đức Trung|Tìm hiểu giải và áp dụng thuật Fisherfaces|
 
 
 

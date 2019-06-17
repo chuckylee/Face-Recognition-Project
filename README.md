@@ -6,8 +6,8 @@
 |19/6-1/7| Học Machine Learning cơ bản|
 |24/6-8/7| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|
 ||Test mẫu thử và tìm ra giải thuật tối ưu|
-|8/7-15/7| Đánh nhãn dữ liệu|
-|15/7-18/7| Lập trình Python để phát hiện được khuôn mặt dựa trên thư viện OpenCV|
+|8/7-15/7| Lập trình Python để phát hiện được khuôn mặt dựa trên thư viện OpenCV|
+|15/7-18/7| Đánh nhãn dữ liệu|
 |18/7-26/7| Lập trình Python để phân biệt được hai người|
 |26/7-9/8| Lập trình Python để nhận dạng được một người|
 ||Viết báo cáo, paper|

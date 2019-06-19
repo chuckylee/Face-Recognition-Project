@@ -1,7 +1,7 @@
 # Face-Recognition-Project
 ## ROADMAP
 |Thời gian bắt đầu| Công việc|Thời gian hoàn thành|
-|-------|------|
+|-------|------|------|
 |10/6| Tìm hiểu về OpenCV và ngôn ngữ lập trình PyThon|1-1,5 tuần|
 |17/6| Học Machine Learning cơ bản|1.5 tuần|
 |20/6| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|>1 tuần|

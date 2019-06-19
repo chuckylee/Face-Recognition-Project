@@ -1,22 +1,22 @@
 # Face-Recognition-Project
 ## ROADMAP
-|Thời gian| Công việc|
+|Thời gian bắt đầu| Công việc|Thời gian hoàn thành|
 |-------|------|
-|10/6-19/6| Tìm hiểu về OpenCV và ngôn ngữ lập trình PyThon|
-|19/6-1/7| Học Machine Learning cơ bản|
-|24/6-8/7| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|
-||Tìm ra giải thuật tối ưu|
-|8/7-15/7| Đánh nhãn dữ liệu|
-|15/7-18/7| Lập trình Python để phát hiện được khuôn mặt dựa trên thư viện OpenCV|
-|18/7-26/7| Lập trình Python để phân biệt được hai người|
-|26/7-9/8| Lập trình Python để nhận dạng được một người|
-||Viết báo cáo, paper|
+|10/6| Tìm hiểu về OpenCV và ngôn ngữ lập trình PyThon|1-1,5 tuần|
+|17/6| Học Machine Learning cơ bản|1.5 tuần|
+|20/6| Tìm hiểu các thuật toán nhận diện khuôn mặt (Eigenfaces, Fisherfaces, LBPH)|>1 tuần|
+|1/7| Đánh nhãn dữ liệu|1 tuần|
+|1/7| Detect được khuôn mặt|1 tuần|
+|8/7| Áp dụng thuật toán để nhận diện khuôn mặt|>2 tuần|
+|15/7| Test mẫu thử, tìm ra giải thuật tối ưu|1 tuần|
+|22/7|Hoàn thành phát hiện và nhận diện khuôn mặt (có thể thêm nhận diện tuổi, giới tính)|1 tuần|
+|29/7|Hoàn thành nhận diện, hiển thị được thông tin, viết báo cáo, paper|
 ## Phân chia công việc
-|Thành viên| Công việc|
-|-------|------|
-|Trần Hoàng Nam| Tìm hiểu và áp dụng giải thuật Eigenfaces|
-|Thái Thị Thanh Linh|Tìm hiểu và áp dụng giải thuật LBPH|
-|Lê Đức Trung|Tìm hiểu giải và áp dụng thuật Fisherfaces|
+|Thành viên| Giải thuật|Detect|Recognize|
+|-------|------|-------|------|
+|Trần Hoàng Nam| Tìm hiểu và áp dụng giải thuật Eigenfaces|Xử lí camera, capture frame|| 
+|Thái Thị Thanh Linh|Tìm hiểu và áp dụng giải thuật LBPH|Xác định được khuôn mặt, crop||
+|Lê Đức Trung|Tìm hiểu giải và áp dụng thuật Fisherfaces|Chỉnh size frame, lưu hình||
 
 
 

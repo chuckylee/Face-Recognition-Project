@@ -12,11 +12,12 @@
 |22/7|Hoàn thành phát hiện và nhận diện khuôn mặt (có thể thêm nhận diện tuổi, giới tính)|1 tuần|
 |29/7|Hoàn thành nhận diện, hiển thị được thông tin, viết báo cáo, paper|
 ## Phân chia công việc
-|Thành viên| Giải thuật|Detect|Recognize|
-|-------|------|-------|------|
-|Trần Hoàng Nam| Tìm hiểu và áp dụng giải thuật Eigenfaces|Xử lí camera, capture frame|| 
-|Thái Thị Thanh Linh|Tìm hiểu và áp dụng giải thuật LBPH|Xác định được khuôn mặt, crop||
-|Lê Đức Trung|Tìm hiểu giải và áp dụng thuật Fisherfaces|Chỉnh size frame, lưu hình||
+# Job 1: DETECT FACE
+|Thành viên| Công việc chung|Công việc riêng|Mục tiêu|Thời gian|
+|-------|------|-------|------|------|
+|Trần Hoàng Nam|| Tìm hiểu và áp dụng giải thuật Eigenfaces|Xử lí camera, capture frame|| 
+|Thái Thị Thanh Linh||Tìm hiểu và áp dụng giải thuật LBPH|Xác định được khuôn mặt, crop||
+|Lê Đức Trung||Tìm hiểu giải và áp dụng thuật Fisherfaces|Chỉnh size frame, lưu hình||
 
 
 

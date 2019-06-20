@@ -15,9 +15,9 @@
 # Job 1: DETECT FACE
 |Thành viên| Công việc chung|Công việc riêng|Mục tiêu|Thời gian|
 |-------|------|-------|------|------|
-|Trần Hoàng Nam|| Tìm hiểu và áp dụng giải thuật Eigenfaces|Xử lí camera, capture frame|| 
-|Thái Thị Thanh Linh||Tìm hiểu và áp dụng giải thuật LBPH|Xác định được khuôn mặt, crop||
-|Lê Đức Trung||Tìm hiểu giải và áp dụng thuật Fisherfaces|Chỉnh size frame, lưu hình||
+|Trần Hoàng Nam|| Tìm hiểu và áp dụng phương pháp||| 
+|Thái Thị Thanh Linh||Tìm hiểu và áp dụng phương pháp|||
+|Lê Đức Trung||Tìm hiểu giải và áp dụng phương pháp|||
 
 
 
